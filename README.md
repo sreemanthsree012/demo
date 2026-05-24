@@ -1,2 +1,2 @@
-# demo
+# My first repository
 xyz
